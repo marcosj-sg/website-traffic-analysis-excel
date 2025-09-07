@@ -37,7 +37,8 @@ Provide insights into sales performance, customer behavior, and product-level tr
 ---
 
 ## 📸 Preview
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot]
+
 
 ---
 
